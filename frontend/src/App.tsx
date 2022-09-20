@@ -4,7 +4,7 @@ import { Toaster } from 'solid-toast';
 import styles from './App.module.css';
 import Tinder from './pages/tinder';
 import Notes from './pages/notes/notes';
-import NewNote from './pages/newNote/NewNote';
+import NewNote from './pages/newNote/newNote';
 import EditNote from './pages/editNote/editNote';
 import Auth from './pages/auth/Auth';
 import { loggedInUser, setLoggedInUser } from '../globalStore';
