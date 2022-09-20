@@ -6,7 +6,7 @@ import Tinder from './pages/tinder';
 import Notes from './pages/notes/notes';
 import NewNote from './pages/newNote/newNote';
 import EditNote from './pages/editNote/editNote';
-import Auth from './pages/auth/Auth';
+import Auth from './pages/auth/auth';
 import { loggedInUser, setLoggedInUser } from '../globalStore';
 import Button from './components/Button/Button';
 
