@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "mstdnt",
+    "DB_PASSWORD": "3aARLDDf9byotZe4",
+    "DB_NAME": "nextNotes",
+    "JWT_KEY": "topSecretString"
+  }
+}
